@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A line I wrote on my local computer  
+A line I wrote on my local computer
+another line that I wrote
